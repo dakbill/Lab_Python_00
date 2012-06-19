@@ -1,12 +1,6 @@
-from math import sqrt
-print 11/7
-print 11.0/7
-print (3**27)
-print (134533 + 6889980 -84849)**3
-Distance=7.9*10**3
-Time=45
-print "Your average time per meter is %d mins!!!"%(Distance/Time)
-MyDistance=4.7
-YourDistance=9.4
-ShortestDistance=sqrt((MyDistance*0.62137)**2+(YourDistance*0.62137)**2)
-print "The shortest path to her is %d miles"%ShortestDistance
+1. a.5 
+   b. 5.5
+2.7625597484987
+3. 334206837441656786944
+4. Your average time per meter is 175 mins!!!
+5. The shortest path to her is 6 miles
